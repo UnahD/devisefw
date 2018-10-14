@@ -1,4 +1,0 @@
-MAIL_USERNAME: 'dhanumalayan20@gmail.com'
-MAIL_PASSWORD: 'fdmdcsbmqjhhjbta'
-MAIL_HOST_DEV: 'localhost:3000'
-MAIL_HOST_PROD: 'deviseauthdemo.herokuapp.com'
